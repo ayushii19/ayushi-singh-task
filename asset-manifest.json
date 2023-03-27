@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ayushi-singh-task/static/css/main.3f75e7a0.css",
+    "main.js": "/ayushi-singh-task/static/js/main.72a7ca5f.js",
+    "static/js/787.31ecb727.chunk.js": "/ayushi-singh-task/static/js/787.31ecb727.chunk.js",
+    "static/media/logo.svg": "/ayushi-singh-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ayushi-singh-task/index.html",
+    "main.3f75e7a0.css.map": "/ayushi-singh-task/static/css/main.3f75e7a0.css.map",
+    "main.72a7ca5f.js.map": "/ayushi-singh-task/static/js/main.72a7ca5f.js.map",
+    "787.31ecb727.chunk.js.map": "/ayushi-singh-task/static/js/787.31ecb727.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f75e7a0.css",
+    "static/js/main.72a7ca5f.js"
+  ]
+}
