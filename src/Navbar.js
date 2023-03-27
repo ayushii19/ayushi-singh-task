@@ -5,7 +5,7 @@ const Navbar = () => {
     return(
         <div className="nav">
             <img className="logo" src="	https://logos-download.com/wp-content/uploads/2017/01/Orea_Hotels_Resorts_logo.png"></img>
-            <Link to="/Home">Home</Link>
+            <Link to="/">Home</Link>
             <Link to="/venues">Venues</Link>
             <Link to="/packages">Packages</Link>
             <Link to="/places">Famous places</Link>
