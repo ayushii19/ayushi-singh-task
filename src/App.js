@@ -14,7 +14,7 @@ function App() {
       <Navbar />
       <div className="App">
         <Routes>
-          <Route exact path ="/" Component={Home}>
+          <Route exact path ="/ayushi-singh-task" Component={Home}>
             </Route>
           <Route exact path="/venues" Component={Venue}>
           </Route>
