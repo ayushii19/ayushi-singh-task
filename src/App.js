@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import React,{useState} from "react";
 import Navbar from "./Navbar.js";
 import Venue from "./Venue.js";
 import Home from "./Home.js";
@@ -9,6 +10,7 @@ import Contact from "./Contact.js";
 import {BrowserRouter as Router, Routes , Route } from "react-router-dom";
 
 function App() {
+  const[count , setCount] = useState(0);
   return (
     <Router>
       <Navbar />
